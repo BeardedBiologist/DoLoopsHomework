@@ -25,7 +25,7 @@ do
             break;
     }
 
-    Console.WriteLine("Type Exit to close, or press ENTER to continue");
+    Console.Write("Type Exit to close, or press ENTER to continue");
     inputStatus = Console.ReadLine();
     if (inputStatus.ToLower() == "exit")
     {
