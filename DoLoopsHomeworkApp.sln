@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoLoopsHomework", "DoLoopsHomework.csproj", "{1BBEDF9A-C208-4604-AC7F-499E6D26B4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BBEDF9A-C208-4604-AC7F-499E6D26B4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBEDF9A-C208-4604-AC7F-499E6D26B4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBEDF9A-C208-4604-AC7F-499E6D26B4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBEDF9A-C208-4604-AC7F-499E6D26B4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B06CC7-3546-4BD8-AD87-FAD29C57B50C}
+	EndGlobalSection
+EndGlobal
